@@ -1,4 +1,4 @@
-<p>align= "centre"
+<p align= "centre">
 <img src= "https://telegra.ph/file/14e4624f81209a506a97b.jpg"
 </p>
  
