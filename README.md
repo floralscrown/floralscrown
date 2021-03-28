@@ -14,7 +14,8 @@
  <a href="https://t.me/Floral_crown" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://t.me/Floral_queen" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://t.me/Flora_Eden" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href= "https://img.shields.io/github/watchers/badges/shields.svg?style=social"></a>
+<a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/animekaizoku/saitamarobot.svg" /> </a>
+<a href="https://https://www.instagram.com/florals_crown" alt="Instagram"> <img src="https://img.shields.io/github/watchers/badges/shields.svg?"></a>
 
 </p>
 
