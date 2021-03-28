@@ -14,7 +14,7 @@
  <a href="https://t.me/Floral_crown" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://t.me/Floral_queen" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://t.me/Flora_Eden" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a [![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/p/floralscrown/) /> </a>
+<a href= "https://img.shields.io/github/watchers/badges/shields.svg?style=social"></a>
 
 </p>
 
